@@ -1,8 +1,8 @@
 # Visualization
-About data visualization using ggplot2 package in R
+ggplot2 package를 활용해 표현할 수 있는 데이터 시각화에 대한 정리
 
 
-### 1. Correlation
+## 1. Correlation
 #### -Scatterplot
 #### -Scatterplot With Encircling
 #### -Jitter Plot
@@ -12,20 +12,20 @@ About data visualization using ggplot2 package in R
 #### -Marginal Histogram / Boxplot
 #### -Correlogram
 
-### 2.Deviation
+## 2.Deviation
 #### -Diverging Bars
 #### -Diverging Lollipop Chart
 #### -Diverging Dot Plot
 #### -Area Chart
 
-### 3.Ranking
+## 3.Ranking
 #### -Ordered Bar Chart
 #### -Lollipop Chart
 #### -Dot Plot
 #### -Slope Chart
 #### -Dumbbell Plot
 
-### 4.Distribution
+## 4.Distribution
 #### -Histogram
 #### -Density Plot
 #### -Box Plot
@@ -34,13 +34,13 @@ About data visualization using ggplot2 package in R
 #### -Violin Plot
 #### -Population Pyramid
 
-### 5.Composition
+## 5.Composition
 #### -Waffle Chart
 #### -Pie Chart
 #### -Treemap
 #### -Bar Chart
 
-### 6.Change
+## 6.Change
 #### -Time Series Plots
 ##### -From a Data Frame
 ##### -Format to Monthly X Axis
@@ -52,7 +52,7 @@ About data visualization using ggplot2 package in R
 #### -Slope Chart
 #### -Seasonal Plot
 
-### 7.Groups
+## 7.Groups
 #### -Dendrogram
 #### -Clusters
 #### -Spatial
